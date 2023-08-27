@@ -22,6 +22,7 @@
 		C376B2AC2A9B4F3B002B6DF7 /* WeatherManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherManager.swift; sourceTree = "<group>"; };
 		C376B2AE2A9B6A8C002B6DF7 /* WeatherData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherData.swift; sourceTree = "<group>"; };
 		C376B2B02A9B7E50002B6DF7 /* WeatherModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherModel.swift; sourceTree = "<group>"; };
+		C376B2B22A9BA92F002B6DF7 /* 64eb710bf7cbc5739bebe491-aiicon-transformed.webp */ = {isa = PBXFileReference; lastKnownFileType = file; path = "64eb710bf7cbc5739bebe491-aiicon-transformed.webp"; sourceTree = "<group>"; };
 		C3E89D7B2A954D0D008C2483 /* Sky Clima.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Sky Clima.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		C3E89D7E2A954D0D008C2483 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		C3E89D802A954D0D008C2483 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -69,6 +70,7 @@
 				C3E89D942A954E60008C2483 /* Controller */,
 				C3E89D872A954D0F008C2483 /* Assets.xcassets */,
 				C3E89D8C2A954D0F008C2483 /* Info.plist */,
+				C376B2B22A9BA92F002B6DF7 /* 64eb710bf7cbc5739bebe491-aiicon-transformed.webp */,
 			);
 			path = "Sky Clima";
 			sourceTree = "<group>";
