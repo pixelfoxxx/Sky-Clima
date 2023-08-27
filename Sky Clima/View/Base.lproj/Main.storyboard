@@ -36,6 +36,9 @@
                                                 <state key="normal" backgroundImage="location.circle.fill" catalog="system">
                                                     <color key="titleShadowColor" name="weatherColor"/>
                                                 </state>
+                                                <connections>
+                                                    <action selector="locationPressed:" destination="Ef7-ef-AIA" eventType="touchUpInside" id="ogP-7g-Sih"/>
+                                                </connections>
                                             </button>
                                             <textField opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="249" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" placeholder="Search" textAlignment="right" clearsOnBeginEditing="YES" minimumFontSize="12" translatesAutoresizingMaskIntoConstraints="NO" id="bmN-fW-CZr">
                                                 <rect key="frame" x="50" y="0.0" width="253" height="40"/>
